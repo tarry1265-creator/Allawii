@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.db
+.env
+.DS_Store
+*.log
+
+# Local server records (accounts, password hashes, transactions)
+server/data/
